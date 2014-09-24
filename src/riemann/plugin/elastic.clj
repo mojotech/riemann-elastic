@@ -1,4 +1,4 @@
-(ns riemann.elastic
+(ns riemann.plugin.elastic
   (:use [clojure.tools.logging :only (info error debug warn)])
   (:require [cheshire.core :as json]
             [clj-time.format]
