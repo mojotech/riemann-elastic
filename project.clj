@@ -8,6 +8,6 @@
                  [clojurewerkz/elastisch "1.2.0"]
                  [org.elasticsearch/elasticsearch "0.90.3"]
                  ]
-  
+
   :main elastic-riemann.core)
 
